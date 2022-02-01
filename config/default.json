@@ -1,5 +1,6 @@
 {
     "port" : 8085,
+    "allowCors": true,
     "logLevel" : "info",
     "localesPath" : "./csl-locales",
     "cslPath" : "./csl",
