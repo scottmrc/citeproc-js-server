@@ -1,4 +1,5 @@
 {
+    "nodeIgnoreTLS": true,
     "port" : 8085,
     "allowCors": true,
     "logLevel" : "info",
